@@ -1,0 +1,101 @@
+name,type,star_rating,city,price_per_night,available_rooms
+The Ritz-Carlton,hotel,5,Los Angeles,400,60
+The Beverly Hilton,hotel,4,Los Angeles,250,75
+The Standard Downtown LA,hotel,3,Los Angeles,150,30
+The Orlando Hotel,hotel,4,Los Angeles,220,40
+Hollywood Hostel,hostel,2,Los Angeles,50,20
+USA Hostels Hollywood,hostel,3,Los Angeles,30,15
+The Hollywood B&B,BnB,3,Los Angeles,100,10
+The Angelino Heights B&B,BnB,4,Los Angeles,80,5
+The Plaza,hotel,5,New York,450,50
+The Mandarin Oriental,hotel,5,New York,600,35
+The Standard High Line,hotel,4,New York,300,80
+The Bowery House,hostel,2,New York,50,25
+The Local Hostel NYC,hostel,3,New York,35,20
+The Chelsea Pines Inn,BnB,4,New York,200,15
+The Colonial House Inn,BnB,3,New York,100,10
+The Savoy Hotel,hotel,5,London,300,80
+The Langham,hotel,5,London,400,50
+The Ritz London,hotel,4,London,200,40
+YHA London St Pancras,hostel,3,London,30,30
+Clink78 Hostel,hostel,2,London,25,25
+The Notting Hill B&B,BnB,3,London,100,10
+The Claverley Court B&B,BnB,4,London,150,8
+The Peninsula,hotel,4,Chicago,200,40
+The Chicago Athletic Association Hotel,hotel,4,Chicago,250,30
+Freehand Chicago Hostel,hostel,3,Chicago,40,20
+The Wicker Park Inn,BnB,4,Chicago,150,5
+The Magnolia Studios B&B,BnB,3,Chicago,100,10
+Le Meridien Etoile,hotel,5,Paris,350,60
+The Hotel du Louvre,hotel,4,Paris,250,50
+Les Piaules Hostel,hostel,3,Paris,30,15
+The Marais B&B,BnB,4,Paris,150,8
+The Grand Hotel,hotel,5,Tokyo,250,75
+The Park Hyatt Tokyo,hotel,4,Tokyo,300,60
+Khaosan World Asakusa Hostel,hostel,2,Tokyo,30,20
+The Asakusa B&B,BnB,3,Tokyo,100,5
+The Spanish Inn,hostel,3,Madrid,50,20
+The Cat's Hostel,hostel,2,Madrid,35,15
+The Los Austrias B&B,BnB,3,Madrid,80,10
+The Barcelo Emperatriz Hotel,hotel,4,Madrid,200,30
+The Grand Hostel,hostel,2,Amsterdam,40,30
+The Flying Pig Uptown Hostel,hostel,3,Amsterdam,30,25
+The Boat&Co Hotel,hotel,4,Amsterdam,180,20
+The Modern Hotel,hotel,4,New York,300,45
+The Plaza Hotel,hotel,5,New York,500,60
+The Ritz Hotel,hotel,4,London,350,55
+The Park Hotel,hotel,3,London,150,25
+Hotel de la Paix,hotel,3,Paris,120,20
+Le Bellechasse Hotel,hotel,4,Paris,200,35
+Tokyo Bay View Hotel,hotel,3,Tokyo,150,30
+The Sakura Hotel,hotel,4,Tokyo,180,40
+The Madrid Hostel,hostel,2,Madrid,30,10
+The Spanish Steps Hostel,hostel,3,Rome,50,20
+The Berlin Backpacker's Hostel,hostel,2,Berlin,30,15
+The Hipster Hostel,hostel,3,Berlin,40,20
+B&B Villa Bella,BnB,4,Florence,150,5
+Florence Charm BnB,BnB,3,Florence,100,10
+The Dubliner's BnB,BnB,2,Dublin,50,5
+The Irish Cottage,BnB,3,Dublin,80,10
+The Miami Beach Resort,hotel,4,Miami,300,45
+The Oceanfront Hotel,hotel,3,Miami,200,30
+The Magic City Hotel,hotel,2,Miami,100,20
+The Los Angeles Inn,hotel,2,Los Angeles,80,15
+The Dubliner's Pub & Inn,hotel,3,Dublin,70,25
+The Emerald Hotel,hotel,4,Dublin,120,40
+The Irish Heritage BnB,BnB,3,Dublin,90,15
+Hotel de la Ville,hotel,4,Paris,200,35
+Hotel Gustave,hotel,3,Paris,150,30
+The Parisian Hostel,hostel,2,Paris,40,9
+The LA Grand Hotel,hotel,4,Los Angeles,250,50
+The Sunset Inn,hotel,3,Los Angeles,150,30
+The LA Bungalow,hotel,2,Los Angeles,80,20
+The Green Clover Hotel,hotel,3,Dublin,100,30
+The Irish Country Inn,BnB,2,Dublin,70,20
+The Parisian Dream Hotel,hotel,5,Paris,400,60
+The Chateau de Paris,hotel,4,Paris,250,45
+The Parisian Experience BnB,BnB,3,Paris,120,20
+The LA Beach House,hotel,3,Los Angeles,200,25
+The Hollywood Hotel,hotel,4,Los Angeles,300,35
+The Los Angeles Loft,hotel,2,Los Angeles,100,15
+The Madrid Boutique Hotel,hotel,4,Madrid,150,25
+The Spanish Sunshine Hostel,hostel,2,Madrid,35,10
+The Madrid City Center Hostel,hostel,3,Madrid,50,20
+The Madridian BnB,BnB,3,Madrid,80,15
+The Green House,BnB,2,Dublin,100,75
+The Champs-Elysees Hotel,hotel,5,Paris,600,80
+The LA Luxury Resort,hotel,5,Los Angeles,500,60
+The Roma Grand Hotel,hotel,4,Rome,250,50
+The Tuscan Villa,hotel,3,Florence,200,35
+The Chicago Palazzo,hotel,5,Chicago,500,75
+The Berlin Modern Hostel,hostel,3,Berlin,40,-15
+The Florentino Hotel,hotel,4,Florence,200,40
+The Amsterdam Canal House,hotel,3,Amsterdam,150,25
+The London City Inn in London,hotel,3,London,100,30
+The Miami Vice Resort,hotel,5,Miami,600,90
+The Paris City Skyline Hotel,hotel,4,Paris,300,5
+Madriglorious,hotel,5,Madrid,400,60
+Berlin and Breakfast,BnB,3,Berlin,150,20
+The New York Cityscape Hotel,hotel,4,New York,400,70
+The Dublin Harbourview Hotel,hotel,6,Dublin,500,80
+The Tokyo City Lights Hostel,hostel,2,Tokyo,30,10

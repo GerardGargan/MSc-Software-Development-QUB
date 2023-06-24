@@ -1,0 +1,8 @@
+Dear Daniel Johnston,
+You didnt last too long at the lecture today (69 mins.) You need to stay the full duration.
+
+Name: Daniel Johnston
+Student No: 1234501
+Logon Time: 09:32
+Logoff Time: 10:41
+Email: daniel.johnston@example.com

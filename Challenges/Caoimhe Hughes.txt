@@ -1,0 +1,8 @@
+Dear Caoimhe Hughes,
+You didnt last too long at the lecture today (78 mins.) You need to stay the full duration.
+
+Name: Caoimhe Hughes
+Student No: 1234567
+Logon Time: 09:05
+Logoff Time: 10:23
+Email: caoimhe.hughes@example.com

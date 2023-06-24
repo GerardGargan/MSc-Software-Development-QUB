@@ -1,0 +1,8 @@
+Dear Aoife Martin,
+You didnt last too long at the lecture today (88 mins.) You need to stay the full duration.
+
+Name: Aoife Martin
+Student No: 3456789
+Logon Time: 09:09
+Logoff Time: 10:37
+Email: aoife.martin@example.com
